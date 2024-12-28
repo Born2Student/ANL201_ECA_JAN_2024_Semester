@@ -57,8 +57,25 @@ In the 2nd Pie Chart, Vancouver has the highest number of unknown CAFV Eligible 
 
 In the 3rd Pie Chart, Bellevue has the highest number of ineligible CAFV EVs due to low battery range at 131 while the Bothell has the lowest number at 63.
 
+### Chart 3: Tree Map of average electric range based on car model
 
+![image](https://github.com/user-attachments/assets/b699c127-6f50-4df2-b931-ceff62a16b05)
 
+The car maker Chevrolet offers the model VOLT that has the longest average electric range at 53 followed by the Volvo model V60 with 36 and the Ford model ESCAPE with 38.
+
+The car maker BMW offers the model 745E that has the shortest average electric range at 16.
+
+The model with the highest average electric range has the largest square while the model with the lowest average electric range has the smallest square. 
+
+### Chart 4: Tree Map of the number of postal codes per legislative district
+
+![image](https://github.com/user-attachments/assets/803d39c1-1df7-44fc-925f-2460d486b0ca)
+
+The district with the highest postal codes number has the largest square while the district with the lowest number had the smallest square.
+
+By filtering for the number of postal codes between 502 and 1332, all districts are located in WA and district 48 has the largest postal code number at 1332. 
+
+Meanwhile, district 17 has the lowest number with 502.
 
 
 
