@@ -47,9 +47,9 @@ This mean that for each car maker, PHEV’s have a longer electric range compare
 
 ### Chart 2: Pie Charts of Clean Alternative Fuel Vehicle (CAFV) eligibility by city and EV type
 
-![image](https://github.com/user-attachments/assets/b465e1c2-8634-41d5-823e-248e8e5ce3e0)
-![image](https://github.com/user-attachments/assets/aad0fd7d-1a07-4ce6-a65e-fae30c01f7fb)
-![image](https://github.com/user-attachments/assets/ea899c29-f430-482d-977a-216ac88f6f06)
+![Screenshot 2024-12-28 at 11 44 45 AM](https://github.com/user-attachments/assets/d3e7c102-d09c-4b35-bb35-d89a874e0135)
+![Screenshot 2024-12-28 at 11 44 58 AM](https://github.com/user-attachments/assets/011189f8-c1b2-4286-810c-da59b8a18fae)
+![Screenshot 2024-12-28 at 11 45 08 AM](https://github.com/user-attachments/assets/8dcc9903-e752-42fb-8eab-19e51f111c64)
 
 In the 1st Pie Chart, Bellevue has the highest number of CAFV Eligible Electric Vehicles (EVs) at 363 while Renton has the lowest number at 216.
 
