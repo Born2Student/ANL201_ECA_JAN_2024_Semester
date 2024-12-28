@@ -1,4 +1,6 @@
-# ANL201_ECA_JAN_2024_Semester
+# ANL201 - Data Visualisation for Business
+
+# ANL201 End-of-Course Assessment (ECA01) - January Semester 2024
 
 ## Section A (100 marks)
 
