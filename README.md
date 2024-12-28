@@ -77,7 +77,19 @@ By filtering for the number of postal codes between 502 and 1332, all districts 
 
 Meanwhile, district 17 has the lowest number with 502.
 
+## Question 4
 
+Using the charts created in Question 3, develop a business performance dashboard.
+
+Provide a screenshot of your dashboard in the report. 
+
+![image](https://github.com/user-attachments/assets/dec67ecb-5c34-41d0-9bcd-2cccbcc1ae53)
+
+For the business performance dashboard, it abides by the dashboard design principles because of several reasons. The 1st reason is it abides by the principle of keeping it simple. For example, in the stacked bar chart, see how the car makers have an impact on the average electric range of EVs.
+
+The 2nd reason is it abides by the principle of not displaying everything. For example, in the tree map in the bottom left hand corner, it only shows the car maker, model and the average electric range which is important for stakeholders who are looking to purchase an EV.
+
+The 3rd reason is it abides by the principle of keeping to a single page. For example in the Tree Map on the bottom left hand corner, which shows the total number of postal codes for each legislative district, it is filtered to show the 4 districts with the highest number of postal codes which is important to stakeholders who do not want to see the other districts their postal codes.
 
 
 
